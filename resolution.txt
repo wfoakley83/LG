@@ -1,1 +1,1 @@
-"I think we can learn git, I think we can, I think we can!"
+"I think we can create a conflict. I think we can learn git, I think we can, I think we can!"
